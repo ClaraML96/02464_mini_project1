@@ -4,8 +4,8 @@ import time
 import csv
 
 # Parameters
-n_trials = 5   # increase to 20 later
-seq_length = 5
+n_trials = 20
+seq_length = 6
 presentation_time = 1  # seconds
 letters = list(string.ascii_uppercase)
 
