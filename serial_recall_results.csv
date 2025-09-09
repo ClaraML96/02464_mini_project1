@@ -1,0 +1,6 @@
+trial,sequence,response,accuracy,positional_accuracy
+1,TALSO,TALSO,1.0,"[1, 1, 1, 1, 1]"
+2,BGCKH,BGCKH,1.0,"[1, 1, 1, 1, 1]"
+3,JIMHK,JIHMH,0.4,"[1, 1, 0, 0, 0]"
+4,CGUVT,CGUVT,1.0,"[1, 1, 1, 1, 1]"
+5,RUDQM,RUDQM,1.0,"[1, 1, 1, 1, 1]"
