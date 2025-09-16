@@ -1,0 +1,11 @@
+trial,sequence,response,accuracy,positional_accuracy
+1,VQFOTU,VQOFTR,0.5,"[1, 1, 0, 0, 1, 0]"
+2,ICTLFE,ICTLFE,1.0,"[1, 1, 1, 1, 1, 1]"
+3,GYWKMV,GYWKLM,0.6666666666666666,"[1, 1, 1, 1, 0, 0]"
+4,HIZCWS,HIZCWS,1.0,"[1, 1, 1, 1, 1, 1]"
+5,GOAXWY,GOAXWY,1.0,"[1, 1, 1, 1, 1, 1]"
+6,IVRFZA,IVRFZA,1.0,"[1, 1, 1, 1, 1, 1]"
+7,XPIUWJ,XPIUWJ,1.0,"[1, 1, 1, 1, 1, 1]"
+8,BENWPJ,BENWPJ,1.0,"[1, 1, 1, 1, 1, 1]"
+9,BZPMCV,BZPWPJ,0.5,"[1, 1, 1, 0, 0, 0]"
+10,BRWVQJ,BRWVQJ,1.0,"[1, 1, 1, 1, 1, 1]"
