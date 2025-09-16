@@ -15,11 +15,11 @@ class SerialRecall:
         self.results = []
         
         # UI elements
-        self.trial_label = tk.Label(self.root, text="Trial 0/20", font=('Arial', 16))
-        self.trial_label.pack(pady=10)
+        self.trial_label = tk.Label(self.root, text="Trial 0/10", font=('Arial', 16))
+        self.trial_label.pack(pady=20)
         
         self.letter_label = tk.Label(self.root, text="", font=('Arial', 48), height=2)
-        self.letter_label.pack(pady=20)
+        self.letter_label.pack(pady=10)
         
         self.entry = tk.Entry(self.root, font=('Arial', 16), width=10)
         self.entry.pack(pady=10)
@@ -30,11 +30,11 @@ class SerialRecall:
         
     def start_trial(self):
         self.trial += 1
-        if self.trial > 3:
+        if self.trial > 11:
             self.save_results()
             return
             
-        self.trial_label.config(text=f"Trial {self.trial}/3")
+        self.trial_label.config(text=f"Trial {self.trial}")
         self.sequence = random.sample(string.ascii_uppercase, 6)
         self.entry.delete(0, tk.END)
         self.start_btn.config(state='disabled')
@@ -43,7 +43,7 @@ class SerialRecall:
         for letter in self.sequence:
             self.letter_label.config(text=letter)
             self.root.update()
-            time.sleep(1)
+            time.sleep(0.1)
         
         self.letter_label.config(text="?")
         self.entry.focus()
@@ -70,7 +70,7 @@ class SerialRecall:
         self.start_btn.config(state='normal')
     
     def save_results(self):
-        with open("02464_mini_project1/results.csv", "w", newline="") as f:
+        with open("02464_mini_project1/results_TRIAL.csv", "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=["trial", "sequence", "response", "accuracy", "positional_accuracy"])
             writer.writeheader()
             writer.writerows(self.results)
