@@ -1,0 +1,11 @@
+trial,sequence,response,accuracy,positional_accuracy
+1,PTKOCUNMJQ,PTOSDFKJSL,0.2,"[1, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
+2,NIWTABQFMV,NIXOKSJKDL,0.2,"[1, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
+3,XUBLEIJVFR,RKXUOILJAS,0.1,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]"
+4,PZRCVNDJUB,CVHUJKDSAS,0.1,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]"
+5,ROKPLDMEYB,ROKPLDMSNJ,0.7,"[1, 1, 1, 1, 1, 1, 1, 0, 0, 0]"
+6,YASJBQIUPK,YASIOHKLJH,0.3,"[1, 1, 1, 0, 0, 0, 0, 0, 0, 0]"
+7,IALPKZGECY,IASLKJDNMS,0.3,"[1, 1, 0, 0, 1, 0, 0, 0, 0, 0]"
+8,PEAKFHJNRL,PKALNJRSSD,0.2,"[1, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
+9,GXUNCLEBYK,CEYIKLASJK,0.2,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 1]"
+10,PQKMZUOVAE,PKVASMNJHU,0.1,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
