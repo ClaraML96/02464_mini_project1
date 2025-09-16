@@ -5,7 +5,7 @@ import string
 import csv
 
 N_TRIALS = 10
-SEQ_LEN = 5
+SEQ_LEN = 10
 STIM_MS = 1000       # per-letter display
 ISI_MS = 0          # gap between letters
 POST_DELAY_MS = 0  # pause after last letter
@@ -93,7 +93,7 @@ class SerialRecall:
             self.start_btn.config(text="Save & Quit")
 
     def save_results(self):
-        with open("results_joao_8.csv", "w", newline="") as f:
+        with open("results_joao_15.csv", "w", newline="") as f:
             writer = csv.DictWriter(
                 f, fieldnames=["trial", "sequence", "response", "accuracy", "positional_accuracy"]
             )
