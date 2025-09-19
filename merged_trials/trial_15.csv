@@ -1,0 +1,42 @@
+trial,sequence,response,accuracy,positional_accuracy,subject
+1,XBTLZUKGAO,KUBGUHTHAK,0.1,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",clara
+2,SXJOARZLQM,LQSAGYHI,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+3,ILJMEKZROU,LMEJQEDFPO,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+4,KWRUJZNIFM,FMKVRUZE,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+5,TQWCPLBFIE,FEIUJKTQLO,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+6,VHCZJWRXQE,TQVZRUHYGT,0.1,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",clara
+7,GCTREVKPSA,TKVZAQSGOU,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+8,VPXNCFSAQO,VPXNQOIUTH,0.4,"[1, 1, 1, 1, 0, 0, 0, 0, 0, 0]",clara
+9,VXGDZRIBMK,IBMKJSFKOI,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+10,YSRHBUZPLW,LWYZDFJHYG,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",clara
+1,MBJCSDHPLG,HPLGMBJVX,0.7,,erine
+2,ENTZWSLFVA,ENTZWFZLA,0.8,,erine
+3,MHBRJKCTSX,CTXSMRBJ,0.8,,erine
+4,XIZNMEHVYS,MEHVYSXI,0.8,,erine
+5,PHYAXLDZJC,JCLDZPHYAX,1.0,,erine
+6,EHUCPMSBVR,BVREHUMSP,0.9,,erine
+7,CUTMQOADJR,JRCOQMUA,0.8,,erine
+8,GIBHPLTNOY,NOYHPJYB,0.6,,erine
+9,DVBEIKZFST,FSTDVBEIKZ,1.0,,erine
+10,WEINFSCTXH,XHWEINFST,0.9,,erine
+1,BQJNAIDVEY,BQJNAI,0.6,"[1, 1, 1, 1, 1, 1, 0, 0, 0, 0]",zuriel
+2,JBAROGKDWE,JBORKEDG,0.3,"[1, 1, 0, 1, 0, 0, 0, 0, 0, 0]",zuriel
+3,XYGQCAJHRS,WERSDFJKLC,0.1,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",zuriel
+4,EISVKPXRZM,EISPKLXQAJ,0.5,"[1, 1, 1, 0, 1, 0, 1, 0, 0, 0]",zuriel
+5,PJCSIDNZYB,CYIPLSBZAS,0.1,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",zuriel
+6,HFJBEQCIXL,HFBJELDSAP,0.3,"[1, 1, 0, 0, 1, 0, 0, 0, 0, 0]",zuriel
+7,NJREOKFSXD,REOKFXSATL,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",zuriel
+8,XNZIKHTLUG,ZNIKLFOASW,0.1,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",zuriel
+9,GMVLUKYWTX,GMVULTRASD,0.3,"[1, 1, 1, 0, 0, 0, 0, 0, 0, 0]",zuriel
+10,KPQCAJOYFW,JYAFLPSDQX,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",zuriel
+1,BLTKWUXRPO,BLTKWURXO,0.6,"[1, 1, 1, 1, 1, 1, 0, 0, 0, 0]",joao
+2,SJMNYHDKEI,SMNDKJIKE,0.3,"[1, 0, 0, 0, 0, 0, 0, 1, 1, 0]",joao
+2,SJMNYHDKEI,,0.0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",joao
+3,VXORMYWQHJ,VXORMIKW,0.5,"[1, 1, 1, 1, 1, 0, 0, 0, 0, 0]",joao
+4,ZLNJWAQFYK,ZLNJKQWY,0.4,"[1, 1, 1, 1, 0, 0, 0, 0, 0, 0]",joao
+5,APJVKTIBMY,ATJVKTIBM,0.8,"[1, 0, 1, 1, 1, 1, 1, 1, 1, 0]",joao
+6,QUAOSIDBJP,QOAUSIDBJP,0.8,"[1, 0, 1, 0, 1, 1, 1, 1, 1, 1]",joao
+7,UTSJAEFMRD,UTSJAFTRME,0.5,"[1, 1, 1, 1, 1, 0, 0, 0, 0, 0]",joao
+8,LVUMFKHGXO,LVUMFXKO,0.5,"[1, 1, 1, 1, 1, 0, 0, 0, 0, 0]",joao
+9,JNFXWISEPG,JNFXWISFPN,0.8,"[1, 1, 1, 1, 1, 1, 1, 0, 1, 0]",joao
+10,MFREYTPHQZ,MEFRXYTZP,0.1,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",joao
